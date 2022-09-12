@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+# API KEY
+*config.js
 # Log file
 *.log
 
